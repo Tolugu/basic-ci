@@ -1,5 +1,5 @@
 # python-ci.yml
-name: basic CI Jun
+name: basic CI
 
 on:
   push:
